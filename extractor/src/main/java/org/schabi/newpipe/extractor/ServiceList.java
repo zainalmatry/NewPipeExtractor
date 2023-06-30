@@ -35,10 +35,10 @@ public final class ServiceList {
         // no instance
     }
 
-    public static final YoutubeService YouTube = new YoutubeService(0);
+    public static final YoutubeService YouTube = new YoutubeService(3);
     public static final SoundcloudService SoundCloud = new SoundcloudService(1);
     public static final MediaCCCService MediaCCC = new MediaCCCService(2);
-    public static final PeertubeService PeerTube = new PeertubeService(3);
+    public static final PeertubeService PeerTube = new PeertubeService(0);
     public static final BandcampService Bandcamp = new BandcampService(4);
 
     /**
