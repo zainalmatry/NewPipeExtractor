@@ -18,7 +18,7 @@ public class PeertubeInstance {
     private final String url;
     private String name;
     public static final PeertubeInstance DEFAULT_INSTANCE
-            = new PeertubeInstance("https://framatube.org", "FramaTube");
+            = new PeertubeInstance("https://ansar.com", "FramaTube");
 
     public PeertubeInstance(final String url) {
         this.url = url;
